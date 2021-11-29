@@ -1,9 +1,11 @@
 # Sequential Unit Testing by using JUnit 5
 
-## TBD
+How to run Java unit testing sequentially. 
 
-TBD
+## Blog Post
+
+explanation of this code can be seen on my blog,
 
 ```
-TBD
+https://edwin.baculsoft.com/2021/11/running-junit-testing-sequentially/
 ```
